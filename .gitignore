@@ -1,0 +1,9 @@
+# downloaded data (~23 GB of session files) and derived caches
+data/
+cache/
+
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store
+*_explained.ipynb
